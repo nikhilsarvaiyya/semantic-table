@@ -1,0 +1,15 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: grid;
+    width: 100%
+}
+
+table {
+    width: 100%
+}
+
+table td {}
