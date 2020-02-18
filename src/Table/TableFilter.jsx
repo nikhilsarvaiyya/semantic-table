@@ -174,7 +174,6 @@ export class TableFilter extends React.Component {
                             <List.Item style={{ padding: "5px 10px" }}>
                                 <List.Content >
                                     <Button
-                                        size="mini"
                                         disabled={this.state.startDate.length === 0 && this.state.endDate.length === 0}
                                         fluid
                                         style={this.state.startDate.length === 0 && this.state.endDate.length === 0 ? { background: "gray" } : { background: "blue" }}

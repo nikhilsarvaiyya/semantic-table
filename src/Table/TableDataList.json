@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Nikhil",
+        "email": "nikhils@valueaddsofttech.com",
+        "default": true,
+        "profilePic": "logo",
+        "firstName": "Nikhil",
+        "lastName": "Sarvaiyya",
+        "createdAt": "2019-07-04T13:33:03.969Z",
+        "updatedAt": "2019-07-04T13:33:03.969Z",
+        "boolean": true,
+        "array": "Manager"
+    }
+]
